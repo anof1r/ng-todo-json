@@ -1,0 +1,19 @@
+{
+  "frameworks": [
+    {
+      "name": "Angular",
+      "description": "Platform for building single-page applications and mobile web development.",
+      "release_date": "2023-11-20"
+    },
+    {
+      "name": "React",
+      "description": "JavaScript library for building user interfaces.",
+      "release_date": "2023-10-27"
+    },
+    {
+      "name": "Vue.js",
+      "description": "Progressive JavaScript framework for building user interfaces.",
+      "release_date": "2023-12-17"
+    }
+  ]
+}
